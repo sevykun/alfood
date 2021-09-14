@@ -14,7 +14,7 @@
   $pkg install git
 ```
 ```
-  $git clone https://github.com/megatruh/malproject
+  $git clone https://github.com/algatra/alfood
 ```
 # use 
 ```
